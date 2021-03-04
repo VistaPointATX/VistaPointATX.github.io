@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "HOA Portal"
+    url: https://vistapoint.nabrnetwork.com/
+  - title: "Landscaping"
+    url: /landscaping
   - title: "Test"
     url: /test
   # - title: "Quick-Start Guide"
