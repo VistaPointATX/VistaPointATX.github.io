@@ -1,7 +1,5 @@
-
 ---
 title: "Landscaping"
-layout: single
 permalink: /landscaping
 
 feature_row:
@@ -11,3 +9,5 @@ feature_row:
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+### Test Header
+Test Paragraph
