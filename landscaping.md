@@ -7,6 +7,15 @@ tags:
   - sample post
   - readability
   - test
+feature_row:
+  - image_path: /assets/images/EngMain.jpg
+    title: "English Garden"
+  - image_path: /assets/images/FrMain.jpg
+    title: "French Garden"
+  - image_path: /assets/images/JapMain.jpg
+    title: "Japanese Garden"
+  - image_path: /assets/images/XeriMain.jpg
+    title: "Xeriscape"
 ---
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
