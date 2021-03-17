@@ -7,13 +7,13 @@ tags:
   - readability
   - test
 feature_row:
-  - image_path: /assets/images/EngMain.jpg
+  - image_path: /assets/images/EngMain.png
     title: "English Garden"
-  - image_path: /assets/images/FrMain.jpg
+  - image_path: /assets/images/FrMain.png
     title: "French Garden"
-  - image_path: /assets/images/JapMain.jpg
+  - image_path: /assets/images/JapMain.png
     title: "Japanese Garden"
-  - image_path: /assets/images/XeriMain.jpg
+  - image_path: /assets/images/XeriMain.png
     title: "Xeriscape"
 ---
 
