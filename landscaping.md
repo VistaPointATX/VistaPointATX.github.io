@@ -12,17 +12,18 @@ feature_row:
     title: "English Garden"
     url: "/english-garden"
   - image_path: /assets/images/FrMain.png
-    title: "French Garden""
+    title: "French Garden"
     url: "/french-garden"
   - image_path: /assets/images/JapMain.png
-    title: "Japanese Garden""
+    title: "Japanese Garden"
     url: "/japanese-garden"
   - image_path: /assets/images/XeriMain.png
-    title: "Xeriscape""
+    title: "Xeriscape"
     url: "/xeriscape"
 ---
 
 # Vista Point Landscaping Resources
+{: .text-center}
 
 {% include feature_row %}
 
