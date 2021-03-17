@@ -18,6 +18,7 @@ feature_row:
     url: "/french-garden"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/JapMain.png
     title: "Japanese Garden"
     url: "/japanese-garden"
@@ -34,6 +35,7 @@ feature_row:
 {: .text-center}
 
 {% include feature_row type="center" %}
+{% include feature_row2 type="center" %}
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
 
