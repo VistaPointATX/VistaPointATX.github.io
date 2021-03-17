@@ -36,8 +36,8 @@ feature_row2:
 
 ## Some Landscaping Styles
 
-{% include feature_row type="center" %}
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row %}
+{% include feature_row id="feature_row2"%}
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
 
