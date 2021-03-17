@@ -33,7 +33,9 @@ feature_row2:
 
 # Vista Point Landscaping Resources
 {: .text-center}
+
 ## Some Landscaping Styles
+
 {% include feature_row type="center" %}
 {% include feature_row2 type="center" %}
 
