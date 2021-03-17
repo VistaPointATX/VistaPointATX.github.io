@@ -1,5 +1,5 @@
 ---
-title: "Wide Single Layout Page"
+title: "Vista Point Landscaping Resources"
 excerpt: "A page with `classes: wide` set to expand the main content's width."
 layout: splash
 author_profile: false
