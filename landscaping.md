@@ -18,7 +18,7 @@ feature_row:
     title: "Xeriscape"
 ---
 
-#Vista Point Landscaping Resources
+# Vista Point Landscaping Resources
 
 {% include feature_row %}
 
