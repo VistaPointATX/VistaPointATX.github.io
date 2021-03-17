@@ -18,6 +18,8 @@ feature_row:
     title: "Xeriscape"
 ---
 
+#Vista Point Landscaping Resources
+
 {% include feature_row %}
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
