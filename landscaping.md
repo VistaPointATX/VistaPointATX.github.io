@@ -11,15 +11,23 @@ feature_row:
   - image_path: /assets/images/EngMain.png
     title: "English Garden"
     url: "/english-garden"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/FrMain.png
     title: "French Garden"
     url: "/french-garden"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/JapMain.png
     title: "Japanese Garden"
     url: "/japanese-garden"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/XeriMain.png
     title: "Xeriscape"
     url: "/xeriscape"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 # Vista Point Landscaping Resources
