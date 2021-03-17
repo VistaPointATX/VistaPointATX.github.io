@@ -23,7 +23,6 @@ feature_row:
 ---
 
 # Vista Point Landscaping Resources
-{: .text-center}
 
 {% include feature_row %}
 
