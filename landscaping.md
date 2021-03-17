@@ -18,12 +18,12 @@ feature_row:
     url: "/french-garden"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /assets/images/JapMain.png
     title: "Japanese Garden"
     url: "/japanese-garden"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/XeriMain.png
     title: "Xeriscape"
     url: "/xeriscape"
@@ -37,7 +37,7 @@ feature_row2:
 ## Some Landscaping Styles
 
 {% include feature_row %}
-{% include feature_row id="feature_row2"%}
+{% include feature_row id="feature_row2" type="center"%}
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
 
