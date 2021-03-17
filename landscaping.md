@@ -33,7 +33,7 @@ feature_row:
 # Vista Point Landscaping Resources
 {: .text-center}
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 When using `layout: single` add the following front matter to a page or post to widen the main content:
 
