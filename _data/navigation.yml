@@ -6,6 +6,8 @@ main:
     url: /landscaping
   - title: "Test"
     url: /test
+  - title: "English Garden"
+    url: /englishgarden
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
