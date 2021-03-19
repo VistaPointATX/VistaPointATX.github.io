@@ -12,4 +12,13 @@ gallery:
 Japanese gardens are traditional gardens whose designs are accompanied by Japanese aesthetics and philosophical ideas, avoid artificial ornamentation, and highlight the natural landscape. Plants and worn, aged materials are generally used by Japanese garden designers to suggest an ancient and faraway natural landscape, and to express the fragility of existence as well as time's unstoppable advance
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+## Examples
+{% include gallery %}
+
+## Related Plants
+- Japanese Maple
+- NON-INVASIVE (Clumping) Bamboo: https://www.bambootexas.com/about-bamboo
+- Flowering shrubs - azalea, camellia and hydrangea
+
+## Guides
+https://www.hgtv.com/outdoors/landscaping-and-hardscaping/design/japanese-garden-plants
