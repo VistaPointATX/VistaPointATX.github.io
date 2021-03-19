@@ -13,4 +13,15 @@ The French formal garden, is a style of garden based on symmetry and the princip
 
 The gardens were designed to represent harmony and order, the ideals of the Renaissance, and to recall the virtues of Ancient Rome. Additionally, the symmetry of French gardens was a continuation of the renaissance themes of harmony French gardens were symmetrical and well manicured to represent order, and this idea of orderliness extended to French society at the time.
 
+## Examples
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+## Related Plants
+- Lavender
+- Boxwood Shrubs
+- Texas Tolerant Perennial Flowers: https://bexar-tx.tamu.edu/earth-kind-horticulture/best-plants-for-bexar-county-south-texas/perennial-plants-for-south-texas-landscapes/
+- In-Season Herbs: https://tngaustin.com/wp-content/uploads/Herbs.pdf
+
+## Guides
+https://www.forbes.com/sites/houzz/2013/09/23/7-design-basics-to-french-garden-style/?sh=34af157c527f
+https://www.ilonasgarden.com/ideas-french-garden/
