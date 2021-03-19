@@ -4,8 +4,8 @@ main:
     url: https://vistapoint.nabrnetwork.com/
   - title: "Landscaping"
     url: /landscaping
-  - title: "English Garden"
-    url: /englishgarden
+  # - title: "English Garden"
+  #   url: /englishgarden
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
