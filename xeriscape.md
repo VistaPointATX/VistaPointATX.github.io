@@ -19,8 +19,6 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-English garden, a type of garden that developed in 18th-century England, originating as a revolt against the architectural garden, which relied on rectilinear patterns, sculpture, and the unnatural shaping of trees. The revolutionary character of the English garden lay in the fact that, whereas gardens had formerly asserted man’s control over nature, in the new style, man’s work was regarded as most successful when it was indistinguishable from nature’s.
-
-In the architectural garden the eye had been directed along artificial, linear vistas that implied man’s continued control of the surrounding countryside, but in the English garden a more natural, irregular formality was achieved in landscapes consisting of expanses of grass, clumps of trees, and irregularly shaped bodies of water.
+Xeriscaping is the process of landscaping, or gardening, that reduces or eliminates the need for irrigation. It is promoted in regions that do not have accessible, plentiful, or reliable supplies of fresh water and is gaining acceptance in other regions as access to irrigation water is becoming limited; though it is not limited to such climates. Xeriscaping may be an alternative to various types of traditional gardening. Xeriscaping produces greenspaces that require low amounts of maintenance and irrigation, and promote biodiversity.
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
