@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/FrMain.png
-    title: "French Garden"
+    title: "French Formal Garden"
     url: "/frenchgarden"
     btn_label: "Read More"
     btn_class: "btn--primary"
