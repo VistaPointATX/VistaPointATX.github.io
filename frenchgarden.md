@@ -15,6 +15,8 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-English garden, a type of garden that developed in 18th-century England, originating as a revolt against the architectural garden, which relied on rectilinear patterns, sculpture, and the unnatural shaping of trees. The revolutionary character of the English garden lay in the fact that, whereas gardens had formerly asserted man’s control over nature, in the new style, man’s work was regarded as most successful when it was indistinguishable from nature’s. In the architectural garden the eye had been directed along artificial, linear vistas that implied man’s continued control of the surrounding countryside, but in the English garden a more natural, irregular formality was achieved in landscapes consisting of expanses of grass, clumps of trees, and irregularly shaped bodies of water.
+The French formal garden, is a style of garden based on symmetry and the principle of imposing order on nature. A style which was inspired by the Italian Renaissance garden at the beginning of the 16th century. The Italian Renaissance garden, typified by the Boboli Gardens in Florence and the Villa Medici in Fiesole, was characterized by planting beds, or parterres, created in geometric shapes, and laid out symmetrical patterns; the use of fountains and cascades to animate the garden; stairways and ramps to unite different levels of the garden; grottos, labyrinths, and statuary on mythological themes.
+
+The gardens were designed to represent harmony and order, the ideals of the Renaissance, and to recall the virtues of Ancient Rome. Additionally, the symmetry of French gardens was a continuation of the renaissance themes of harmony French gardens were symmetrical and well manicured to represent order, and this idea of orderliness extended to French society at the time.
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
