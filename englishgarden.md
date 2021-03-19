@@ -13,4 +13,16 @@ English garden, a type of garden that developed in 18th-century England, origina
 
 In the architectural garden the eye had been directed along artificial, linear vistas that implied man’s continued control of the surrounding countryside, but in the English garden a more natural, irregular formality was achieved in landscapes consisting of expanses of grass, clumps of trees, and irregularly shaped bodies of water.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+## Examples
+{% include gallery %}
+
+## Related Plants
+- Lavender
+- Rosemary
+- Texas Tolerant Perennial Flowers: https://bexar-tx.tamu.edu/earth-kind-horticulture/best-plants-for-bexar-county-south-texas/perennial-plants-for-south-texas-landscapes/
+- Texas Tolerant Vines: https://aggie-horticulture.tamu.edu/extension/xeriscape/table2.html
+- Roses: https://tngaustin.com/wp-content/uploads/Roses.pdf
+
+## Guides
+https://www.countryliving.com/gardening/garden-ideas/advice/g1665/english-garden-design/
+https://www.sunset.com/garden/landscaping-design/cottage-garden-guide
