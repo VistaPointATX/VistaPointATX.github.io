@@ -10,17 +10,17 @@ tags:
 feature_row:
   - image_path: /assets/images/EngMain.png
     title: "English Garden"
-    url: "/english-garden"
+    url: "/englishgarden"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/FrMain.png
     title: "French Garden"
-    url: "/french-garden"
+    url: "/frenchgarden"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/JapMain.png
     title: "Japanese Garden"
-    url: "/japanese-garden"
+    url: "/japanesegarden"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
