@@ -34,7 +34,9 @@ feature_row2:
 # Vista Point Landscaping Resources
 {: .text-center}
 
-One of the goals of the Vista Point HOA is to encourage our community to express themselves via their creative landscaping. To that end, we've put together some ideas and resources to get you started! Please ensure that you see the below section of this page for into on how to submit your Architecture Request!
+One of the goals of the Vista Point HOA is to encourage our community to express themselves via their creative landscaping. To that end, we've put together some ideas and resources to get you started!
+
+_Please ensure that you see the below section of this page for into on how to submit your Architecture Request._
 
 ## Landscaping Ideas
 
