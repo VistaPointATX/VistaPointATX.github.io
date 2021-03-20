@@ -23,5 +23,5 @@ The gardens were designed to represent harmony and order, the ideals of the Rena
 - [In-Season Herbs](https://tngaustin.com/wp-content/uploads/Herbs.pdf)
 
 ## Guides
-[Design Basics to French Garden Style](https://www.forbes.com/sites/houzz/2013/09/23/7-design-basics-to-french-garden-style/?sh=34af157c527f)
-[French Garden Ideas](https://www.ilonasgarden.com/ideas-french-garden/)
+- [Design Basics to French Garden Style](https://www.forbes.com/sites/houzz/2013/09/23/7-design-basics-to-french-garden-style/?sh=34af157c527f)
+- [French Garden Ideas](https://www.ilonasgarden.com/ideas-french-garden/)
