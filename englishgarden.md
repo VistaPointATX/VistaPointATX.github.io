@@ -24,5 +24,5 @@ In the architectural garden the eye had been directed along artificial, linear v
 - [Roses](https://tngaustin.com/wp-content/uploads/Roses.pdf)
 
 ## Guides
-https://www.countryliving.com/gardening/garden-ideas/advice/g1665/english-garden-design/
-https://www.sunset.com/garden/landscaping-design/cottage-garden-guide
+[English Garden Design](https://www.countryliving.com/gardening/garden-ideas/advice/g1665/english-garden-design/)
+[Cottage Garden Guide](https://www.sunset.com/garden/landscaping-design/cottage-garden-guide)
