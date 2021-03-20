@@ -19,9 +19,9 @@ The gardens were designed to represent harmony and order, the ideals of the Rena
 ## Related Plants
 - Lavender
 - Boxwood Shrubs
-- Texas Tolerant Perennial Flowers: https://bexar-tx.tamu.edu/earth-kind-horticulture/best-plants-for-bexar-county-south-texas/perennial-plants-for-south-texas-landscapes/
-- In-Season Herbs: https://tngaustin.com/wp-content/uploads/Herbs.pdf
+- [Texas Tolerant Perennial Flowers](https://bexar-tx.tamu.edu/earth-kind-horticulture/best-plants-for-bexar-county-south-texas/perennial-plants-for-south-texas-landscapes/)
+- [In-Season Herbs](https://tngaustin.com/wp-content/uploads/Herbs.pdf)
 
 ## Guides
-https://www.forbes.com/sites/houzz/2013/09/23/7-design-basics-to-french-garden-style/?sh=34af157c527f
-https://www.ilonasgarden.com/ideas-french-garden/
+[Design Basics to French Garden Style](https://www.forbes.com/sites/houzz/2013/09/23/7-design-basics-to-french-garden-style/?sh=34af157c527f)
+[French Garden Ideas](https://www.ilonasgarden.com/ideas-french-garden/)
