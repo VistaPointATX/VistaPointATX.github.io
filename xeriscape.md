@@ -17,10 +17,10 @@ Xeriscaping is the process of landscaping, or gardening, that reduces or elimina
 {% include gallery %}
 
 ## Related Plants
-- Texas Native Plants: https://agrilifecdn.tamu.edu/water/files/2014/01/central-texas-landscaping-plants-guide.pdf
-- Succulents: https://succulentsbox.com/blogs/blog/succulent-zone-7-8
-- Cactus: https://www.thespruce.com/best-cactus-to-plant-in-garden-4059807
+- [Texas Native Plants] (https://agrilifecdn.tamu.edu/water/files/2014/01/central-texas-landscaping-plants-guide.pdf)
+- [Succulents] (https://succulentsbox.com/blogs/blog/succulent-zone-7-8)
+- [Cactus] (https://www.thespruce.com/best-cactus-to-plant-in-garden-4059807)
 - Small Agave (like Parry's)
 
 ## Guides
-https://www.centraltexasgardener.org/2018/05/take-the-zero-out-of-xeriscape/
+[Take the Zero Out of Zeriscape] (https://www.centraltexasgardener.org/2018/05/take-the-zero-out-of-xeriscape/)
