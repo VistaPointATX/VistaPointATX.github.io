@@ -17,8 +17,8 @@ Japanese gardens are traditional gardens whose designs are accompanied by Japane
 
 ## Related Plants
 - Japanese Maple
-- NON-INVASIVE (Clumping) Bamboo: https://www.bambootexas.com/about-bamboo
+- [NON-INVASIVE (Clumping) Bamboo](https://www.bambootexas.com/about-bamboo)
 - Flowering shrubs - azalea, camellia and hydrangea
 
 ## Guides
-https://www.hgtv.com/outdoors/landscaping-and-hardscaping/design/japanese-garden-plants
+[Japanese Garden Plants](https://www.hgtv.com/outdoors/landscaping-and-hardscaping/design/japanese-garden-plants)
