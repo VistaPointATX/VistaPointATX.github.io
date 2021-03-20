@@ -19,9 +19,9 @@ In the architectural garden the eye had been directed along artificial, linear v
 ## Related Plants
 - Lavender
 - Rosemary
-- Texas Tolerant Perennial Flowers: https://bexar-tx.tamu.edu/earth-kind-horticulture/best-plants-for-bexar-county-south-texas/perennial-plants-for-south-texas-landscapes/
-- Texas Tolerant Vines: https://aggie-horticulture.tamu.edu/extension/xeriscape/table2.html
-- Roses: https://tngaustin.com/wp-content/uploads/Roses.pdf
+- [Texas Tolerant Perennial Flowers](https://bexar-tx.tamu.edu/earth-kind-horticulture/best-plants-for-bexar-county-south-texas/perennial-plants-for-south-texas-landscapes/)
+- [Texas Tolerant Vines](https://aggie-horticulture.tamu.edu/extension/xeriscape/table2.html)
+- [Roses](https://tngaustin.com/wp-content/uploads/Roses.pdf)
 
 ## Guides
 https://www.countryliving.com/gardening/garden-ideas/advice/g1665/english-garden-design/
