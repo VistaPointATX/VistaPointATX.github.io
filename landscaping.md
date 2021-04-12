@@ -63,3 +63,4 @@ Please submit any designs for landscape modifications to the HOA Management Comp
 - [TexasSmartScape Plant Finder and Landscape Advice](http://www.txsmartscape.com/plant-search/)
 - [Lady Bird Johnson Wildflower Center Plant Finder](https://www.wildflower.org/plants/)
 - [City of Austin Landscape Design (Info, Rebates, Pamphlets)](https://www.austintexas.gov/department/landscape-design)
+- [Vegetable Planting Calendar](https://travis-tx.tamu.edu/files/2020/06/Vegetable-Planting-Calendar-Travis-2015.pdf)
