@@ -58,7 +58,7 @@ Please submit any designs for landscape modifications to the HOA Management Comp
 
 ## Miscellaneous Info
 - [Austin Native Plant Guide](http://www.austintexas.gov/department/grow-green/plant-guide)
-- [Austin Native and Adapted Plant Pdf] (https://www.austintexas.gov/watershed_protection/publications/document.cfm?id=198301)
+- [Austin Native and Adapted Plant Pdf](https://www.austintexas.gov/watershed_protection/publications/document.cfm?id=198301)
 - [Austin Native Tree Guide](https://www.austintexas.gov/sites/default/files/files/Watershed/growgreen/2_8_12_native_tree_growing_guide_for_central_texas.pdf)
 - [TexasSmartScape Plant Finder and Landscape Advice](http://www.txsmartscape.com/plant-search/)
 - [Lady Bird Johnson Wildflower Center Plant Finder](https://www.wildflower.org/plants/)
